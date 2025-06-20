@@ -45,3 +45,9 @@ This project is a **Console-Based Student Management System** developed in **Jav
 
 3.And try to use IntelliJ IDEA – the IDE for Pro Java and Kotlin Development
 
+## Preview
+
+![image](https://github.com/user-attachments/assets/a08f9dc0-fa58-48c9-b633-4f284d5d3918)
+
+
+
